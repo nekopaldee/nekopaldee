@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @nekopaldee or \_nkpd
-- 👀 I’m interested in too many things
-- 🌱 I’m currently learning Python
+- ☺️ I'm a full-time Visual Effects student at Bangkok University
+- 👀 I’m interested in too many things (e.g. Animation, Designing, mostly techinical stuff)
+- 🌱 I’m currently learning Python, Swift, NextJS
+- 💗 I love cat 🐱 
 
 <!---
 nekopaldee/nekopaldee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
