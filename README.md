@@ -1,6 +1,6 @@
 # Hi,
 - 👋 Hi, I’m @nekopaldee or \_nkpd
-- ☺️ I'm a full-time VFX student at Bangkok University
+- ☺️ I'm a graduated VFX student from Bangkok University, now a full-time freelance motion designer
 - 👀 I’m interested in too many things (e.g. Animation, Designing, mostly technical stuff)
 - 🌱 I’m currently learning Python, Swift, NextJS
 - 💗 I love cat 🐱 
